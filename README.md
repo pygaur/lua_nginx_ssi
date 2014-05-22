@@ -8,8 +8,8 @@ Clone Repo:
 git clone https://github.com/pygaur/lua_nginx_ssi.git
 
 Step 2 :    
-Create Symbolic link to store ssi/ssi.lua into lualib folder.    
-Example :   ln -s /home/pylover/lua_nginx_ssi/  /usr/local/openresty/lualib/    
+
+copy ssi folder into lualib folder (/usr/local/openresty/lualib/    )
 
 Step 3 :    
 How to use  into code:    
