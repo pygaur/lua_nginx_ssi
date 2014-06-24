@@ -18,3 +18,5 @@ How to use  into code:
             local content = ssi:process_ssi(content)   -- content with ssi tags    
             return content   -- return content with response coming from ssi tags.    
   
+
+ssi.lua handles two directive file, virtual of server side include tags .
